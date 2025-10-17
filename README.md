@@ -30,8 +30,18 @@ PROCEDURE:
 OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
+Line Regulation:
+![WhatsApp Image 2025-10-17 at 22 35 06_d9407651](https://github.com/user-attachments/assets/d34164f0-43c4-4dd7-9f2b-3f7343639d60)
+
+Load Regulation:
+![WhatsApp Image 2025-10-17 at 22 35 06_4a1b9544](https://github.com/user-attachments/assets/a4355f50-a0a6-474a-b72b-d6a550e7e34d)
 
 V-I & REGULATION CHARACTERISTICS:
+Line Regulation:
+![WhatsApp Image 2025-10-18 at 02 31 29_6662b162](https://github.com/user-attachments/assets/9fc7cbd7-ff32-480a-9b07-ffa3cbe1ac6c)
+
+Load Regulation:
+![WhatsApp Image 2025-10-18 at 02 31 29_bae719e4](https://github.com/user-attachments/assets/279386a3-6963-4e62-868a-cedca2109628)
 
 PRECAUTIONS:
 
